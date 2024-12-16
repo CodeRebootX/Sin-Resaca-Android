@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/list_ingredintes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#2C6F22"
+        android:textSize="20sp"
+        android:padding="4dp"
+        android:fontFamily="sans-serif-condensed-light"
+        android:gravity="center_vertical"
+        android:background="@android:drawable/toast_frame"/>
+</LinearLayout>

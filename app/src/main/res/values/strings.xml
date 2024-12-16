@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cocktail Application</string>
+    <string name="nombre_cocktail">Nombre Cocktail</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="instructions">Instructions:</string>
+    <string name="foto_del_cocktail">Foto del cocktail</string>
+    <string name="logo_de_app">Logo de app</string>
+    <string name="sin_resaca">Sin Resaca</string>
+</resources>
