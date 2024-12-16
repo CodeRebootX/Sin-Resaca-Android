@@ -38,6 +38,6 @@ Al hacer clic en uno de los cócteles, serás redirigido a una pantalla con más
   
 🤝 Contribuciones  
   
-Las contribuciones son bienvenidas. Si deseas mejorar o agregar nuevas funcionalidades a la aplicación, por favor sigue estos pasos:  
+Las contribuciones son bienvenidas.
 
 🍸 ¡Disfruta de la aplicación SinResaca y de todas las recetas de cócteles sin alcohol! 🍹  
